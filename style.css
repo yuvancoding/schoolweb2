@@ -1,0 +1,12 @@
+.travel_mainDiv
+{
+    border: solid 1px lightgrey;
+}
+.travel_mainDiv img
+{ 
+    width: 100%;
+}
+.travel_mainDiv h4 , .travel_mainDiv p
+{ 
+    margin: 20%;
+}
